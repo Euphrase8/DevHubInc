@@ -61,7 +61,10 @@ const Hero = () => {
           >
             Building Future-Ready
             <br />
-            <span className="bg-gradient-accent bg-clip-text text-transparent">
+            <span
+              className="bg-gradient-to-r from-blue-700 via-blue-500 to-teal-400 bg-clip-text text-transparent font-extrabold"
+              style={{ display: "inline-block" }}
+            >
               Digital Experiences
             </span>
           </motion.h1>
@@ -84,9 +87,9 @@ const Hero = () => {
             <Button
               size="lg"
               onClick={() => {
-                const element = document.querySelector('#contact');
+                const element = document.querySelector("#contact");
                 if (element) {
-                  element.scrollIntoView({ behavior: 'smooth' });
+                  element.scrollIntoView({ behavior: "smooth" });
                 }
               }}
               className="group bg-primary hover:bg-accent text-primary-foreground font-semibold px-8 py-6 text-lg rounded-full transition-all duration-300 hover:shadow-[0_0_30px_rgba(0,217,255,0.6)]"

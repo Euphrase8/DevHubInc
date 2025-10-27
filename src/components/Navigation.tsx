@@ -3,6 +3,7 @@ import { motion } from "framer-motion";
 import { Menu, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Link, useLocation } from "react-router-dom";
+import Logo from "@/assets/image.png";
 
 const Navigation = () => {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -26,8 +27,8 @@ const Navigation = () => {
   ];
 
   const scrollToSection = (href: string) => {
-    if (location.pathname !== '/') {
-      window.location.href = '/' + href;
+    if (location.pathname !== "/") {
+      window.location.href = "/" + href;
       return;
     }
     const element = document.querySelector(href);
@@ -42,7 +43,9 @@ const Navigation = () => {
       initial={{ y: -100 }}
       animate={{ y: 0 }}
       className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
-        isScrolled ? "bg-background/80 backdrop-blur-lg border-b border-border" : ""
+        isScrolled
+          ? "bg-background/80 backdrop-blur-lg border-b border-border"
+          : ""
       }`}
     >
       <div className="container mx-auto px-4">
@@ -52,9 +55,9 @@ const Navigation = () => {
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
               transition={{ delay: 0.2 }}
-              className="text-2xl font-bold bg-gradient-accent bg-clip-text text-transparent"
+              className="flex items-center"
             >
-              DevHub
+              <img src={Logo} alt="DevHub Logo" className="h-10 w-auto" />
             </motion.div>
           </Link>
 
