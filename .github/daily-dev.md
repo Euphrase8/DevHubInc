@@ -65,3 +65,12 @@ Updated React to version 19.0.0 for latest features.
 Upgraded Vite to version 6.x for faster builds.
 Applied security patches across dependency tree.
 
+
+## 2026-01-01
+
+**feat: update landing page hero section**
+
+Redesigned hero section with gradient background and improved typography.
+Added animated CTA button with hover effects.
+Optimized mobile layout for better content hierarchy.
+
