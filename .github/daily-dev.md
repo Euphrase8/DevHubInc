@@ -74,3 +74,12 @@ Redesigned hero section with gradient background and improved typography.
 Added animated CTA button with hover effects.
 Optimized mobile layout for better content hierarchy.
 
+
+## 2026-01-03
+
+**style: refine card component shadows**
+
+Adjusted box-shadow values for more natural depth perception.
+Added transition effects on hover for interactive cards.
+Standardized border-radius across card variants.
+
