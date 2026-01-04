@@ -83,3 +83,12 @@ Adjusted box-shadow values for more natural depth perception.
 Added transition effects on hover for interactive cards.
 Standardized border-radius across card variants.
 
+
+## 2026-01-04
+
+**fix: correct alignment in footer grid**
+
+Fixed footer column alignment on tablet viewports.
+Adjusted grid gap spacing for consistent layout.
+Added missing padding on mobile footer items.
+
