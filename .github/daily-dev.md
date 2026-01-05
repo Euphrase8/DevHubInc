@@ -92,3 +92,12 @@ Fixed footer column alignment on tablet viewports.
 Adjusted grid gap spacing for consistent layout.
 Added missing padding on mobile footer items.
 
+
+## 2026-01-05
+
+**chore: clean up unused CSS classes**
+
+Removed deprecated utility classes from global stylesheet.
+Consolidated duplicate Tailwind custom configurations.
+Reduced total CSS output size by approximately 8%.
+
