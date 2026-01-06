@@ -101,3 +101,12 @@ Removed deprecated utility classes from global stylesheet.
 Consolidated duplicate Tailwind custom configurations.
 Reduced total CSS output size by approximately 8%.
 
+
+## 2026-01-06
+
+**docs: add API endpoint documentation**
+
+Documented REST API endpoints with request/response examples.
+Added authentication flow explanation for developers.
+Created Postman collection export for testing.
+
