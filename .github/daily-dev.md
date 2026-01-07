@@ -14017,3 +14017,10 @@ Refactored implementation. All tests passing. Code coverage maintained.
 
 Refactored implementation. All tests passing. Code coverage maintained.
 
+
+## 2026-01-07 - patch 261
+
+**style: update component spacing tokens**
+
+Refactored implementation. All tests passing. Code coverage maintained.
+
