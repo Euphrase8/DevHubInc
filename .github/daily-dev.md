@@ -110,3 +110,12 @@ Documented REST API endpoints with request/response examples.
 Added authentication flow explanation for developers.
 Created Postman collection export for testing.
 
+
+## 2026-01-08
+
+**feat: implement dark mode toggle**
+
+Added theme switcher component with system preference detection.
+Persisted theme preference in localStorage.
+Applied smooth transition between light and dark modes.
+
