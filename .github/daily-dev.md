@@ -119,3 +119,12 @@ Added theme switcher component with system preference detection.
 Persisted theme preference in localStorage.
 Applied smooth transition between light and dark modes.
 
+
+## 2026-01-09
+
+**style: update button component variants**
+
+Added outline and ghost button style variants.
+Improved disabled state styling with proper contrast.
+Fixed icon spacing in button-with-icon pattern.
+
