@@ -11266,3 +11266,10 @@ Implementation details refined. Performance benchmarks validated.
 
 Implementation details refined. Performance benchmarks validated.
 
+
+## 2026-01-10 - v6.60
+
+**feat: add keyboard navigation support for tables**
+
+Implementation details refined. Performance benchmarks validated.
+
