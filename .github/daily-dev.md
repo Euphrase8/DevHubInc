@@ -128,3 +128,12 @@ Added outline and ghost button style variants.
 Improved disabled state styling with proper contrast.
 Fixed icon spacing in button-with-icon pattern.
 
+
+## 2026-01-10
+
+**fix: resolve mobile nav menu overflow**
+
+Fixed navigation menu overflowing on small screens.
+Added scroll lock when mobile menu is open.
+Improved touch target sizes for menu items.
+
