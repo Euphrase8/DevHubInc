@@ -11301,3 +11301,10 @@ Implementation details refined. Performance benchmarks validated.
 
 Implementation details refined. Performance benchmarks validated.
 
+
+## 2026-01-10 - v7.41
+
+**docs: update API reference with new parameters**
+
+Implementation details refined. Performance benchmarks validated.
+
