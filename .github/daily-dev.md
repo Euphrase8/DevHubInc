@@ -137,3 +137,12 @@ Fixed navigation menu overflowing on small screens.
 Added scroll lock when mobile menu is open.
 Improved touch target sizes for menu items.
 
+
+## 2026-01-12
+
+**perf: optimize font loading strategy**
+
+Implemented font-display swap for web fonts.
+Added preconnect hints for Google Fonts CDN.
+Reduced Cumulative Layout Shift by preloading fonts.
+
