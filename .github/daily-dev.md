@@ -146,3 +146,12 @@ Implemented font-display swap for web fonts.
 Added preconnect hints for Google Fonts CDN.
 Reduced Cumulative Layout Shift by preloading fonts.
 
+
+## 2026-01-13
+
+**chore: configure PWA manifest**
+
+Added web app manifest with proper icons and theme color.
+Configured service worker registration for offline support.
+Set up cache-first strategy for static assets.
+
