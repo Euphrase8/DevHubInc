@@ -155,3 +155,12 @@ Added web app manifest with proper icons and theme color.
 Configured service worker registration for offline support.
 Set up cache-first strategy for static assets.
 
+
+## 2026-01-14
+
+**feat: add scroll-to-top button**
+
+Implemented floating scroll-to-top button with smooth scroll behavior.
+Added visibility animation based on scroll position.
+Included ARIA labels for accessibility compliance.
+
