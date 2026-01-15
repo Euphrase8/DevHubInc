@@ -14619,3 +14619,10 @@ Refactored implementation. All tests passing. Code coverage maintained.
 
 Refactored implementation. All tests passing. Code coverage maintained.
 
+
+## 2026-01-15 - patch 387
+
+**test: add integration test for auth flow**
+
+Refactored implementation. All tests passing. Code coverage maintained.
+
