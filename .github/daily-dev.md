@@ -695,3 +695,11 @@ Related adjustments across dependent modules.
 Refined implementation details and improved code quality.
 Related adjustments across dependent modules.
 
+
+## 2026-01-15 - Update 3
+
+**chore: update tweak type definitions and interfaces**
+
+Refined implementation details and improved code quality.
+Related adjustments across dependent modules.
+
