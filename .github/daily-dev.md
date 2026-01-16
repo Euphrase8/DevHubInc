@@ -11168,3 +11168,10 @@ Implementation details refined. Performance benchmarks validated.
 
 Implementation details refined. Performance benchmarks validated.
 
+
+## 2026-01-16 - v3.42
+
+**fix: correct state update race condition in forms**
+
+Implementation details refined. Performance benchmarks validated.
+
