@@ -14752,3 +14752,10 @@ Refactored implementation. All tests passing. Code coverage maintained.
 
 Refactored implementation. All tests passing. Code coverage maintained.
 
+
+## 2026-01-17 - patch 380
+
+**refactor: extract shared utility functions**
+
+Refactored implementation. All tests passing. Code coverage maintained.
+
