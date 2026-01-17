@@ -164,3 +164,12 @@ Implemented floating scroll-to-top button with smooth scroll behavior.
 Added visibility animation based on scroll position.
 Included ARIA labels for accessibility compliance.
 
+
+## 2026-01-17
+
+**style: improve form input styling**
+
+Standardized input field heights and padding across forms.
+Added focus ring styles matching brand colors.
+Fixed autofill background override for dark mode.
+
