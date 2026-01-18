@@ -11476,3 +11476,10 @@ Implementation details refined. Performance benchmarks validated.
 
 Implementation details refined. Performance benchmarks validated.
 
+
+## 2026-01-18 - v7.31
+
+**test: cover edge cases in data transformation utils**
+
+Implementation details refined. Performance benchmarks validated.
+
