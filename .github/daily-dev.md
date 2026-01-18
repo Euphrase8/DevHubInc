@@ -173,3 +173,12 @@ Standardized input field heights and padding across forms.
 Added focus ring styles matching brand colors.
 Fixed autofill background override for dark mode.
 
+
+## 2026-01-18
+
+**docs: create contribution guidelines**
+
+Added CONTRIBUTING.md with setup instructions and code standards.
+Documented branch naming convention and PR process.
+Added commit message format guidelines.
+
