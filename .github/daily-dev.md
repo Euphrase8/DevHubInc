@@ -11483,3 +11483,10 @@ Implementation details refined. Performance benchmarks validated.
 
 Implementation details refined. Performance benchmarks validated.
 
+
+## 2026-01-18 - v8.7
+
+**feat: add keyboard navigation support for tables**
+
+Implementation details refined. Performance benchmarks validated.
+
