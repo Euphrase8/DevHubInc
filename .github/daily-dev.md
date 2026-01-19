@@ -182,3 +182,12 @@ Added CONTRIBUTING.md with setup instructions and code standards.
 Documented branch naming convention and PR process.
 Added commit message format guidelines.
 
+
+## 2026-01-19
+
+**fix: correct image aspect ratio issues**
+
+Fixed image distortion in gallery grid layout.
+Added object-fit cover with proper aspect ratio containers.
+Implemented placeholder blur-up loading effect.
+
