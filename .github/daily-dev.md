@@ -191,3 +191,12 @@ Fixed image distortion in gallery grid layout.
 Added object-fit cover with proper aspect ratio containers.
 Implemented placeholder blur-up loading effect.
 
+
+## 2026-01-20
+
+**feat: add loading skeleton components**
+
+Created reusable skeleton loading components for cards and tables.
+Added shimmer animation effect for visual feedback.
+Integrated skeleton states with data fetching flow.
+
