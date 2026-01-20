@@ -8774,3 +8774,10 @@ Implementation details refined. Performance benchmarks validated.
 
 Implementation details refined. Performance benchmarks validated.
 
+
+## 2026-01-20 - v9.41
+
+**test: cover edge cases in data transformation utils**
+
+Implementation details refined. Performance benchmarks validated.
+
