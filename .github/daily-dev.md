@@ -200,3 +200,12 @@ Created reusable skeleton loading components for cards and tables.
 Added shimmer animation effect for visual feedback.
 Integrated skeleton states with data fetching flow.
 
+
+## 2026-01-22
+
+**chore: update accessibility attributes**
+
+Added aria-labels to icon-only buttons and links.
+Improved focus management for modal and dialog components.
+Fixed color contrast ratios for small text elements.
+
