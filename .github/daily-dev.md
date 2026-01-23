@@ -209,3 +209,12 @@ Added aria-labels to icon-only buttons and links.
 Improved focus management for modal and dialog components.
 Fixed color contrast ratios for small text elements.
 
+
+## 2026-01-23
+
+**style: refine notification badges**
+
+Standardized badge positioning and size across components.
+Added pulse animation for unread notification indicators.
+Improved badge color variants for different states.
+
