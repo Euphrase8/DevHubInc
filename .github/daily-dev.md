@@ -8487,3 +8487,10 @@ Implementation details refined. Performance benchmarks validated.
 
 Implementation details refined. Performance benchmarks validated.
 
+
+## 2026-01-24 - v6.25
+
+**perf: reduce re-renders with useCallback optimization**
+
+Implementation details refined. Performance benchmarks validated.
+
