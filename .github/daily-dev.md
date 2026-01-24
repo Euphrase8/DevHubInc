@@ -218,3 +218,12 @@ Standardized badge positioning and size across components.
 Added pulse animation for unread notification indicators.
 Improved badge color variants for different states.
 
+
+## 2026-01-24
+
+**feat: add breadcrumb navigation**
+
+Implemented responsive breadcrumb component with collapse option.
+Added schema.org structured data for SEO benefits.
+Integrated breadcrumbs with React Router navigation.
+
