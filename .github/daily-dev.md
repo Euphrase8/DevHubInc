@@ -15697,3 +15697,10 @@ Refactored implementation. All tests passing. Code coverage maintained.
 
 Refactored implementation. All tests passing. Code coverage maintained.
 
+
+## 2026-01-27 - patch 91
+
+**docs: update changelog with recent changes**
+
+Refactored implementation. All tests passing. Code coverage maintained.
+
