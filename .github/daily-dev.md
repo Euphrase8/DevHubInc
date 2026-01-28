@@ -8368,3 +8368,10 @@ Implementation details refined. Performance benchmarks validated.
 
 Implementation details refined. Performance benchmarks validated.
 
+
+## 2026-01-28 - v5.3
+
+**docs: update API reference with new parameters**
+
+Implementation details refined. Performance benchmarks validated.
+
