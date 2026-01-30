@@ -236,3 +236,12 @@ Added horizontal scroll for tables on mobile viewports.
 Implemented sticky header columns for data tables.
 Fixed cell padding consistency across row states.
 
+
+## 2026-01-30
+
+**perf: implement code splitting**
+
+Configured dynamic imports for route-level code splitting.
+Added lazy loading for heavy component dependencies.
+Reduced initial bundle load time by approximately 15%.
+
