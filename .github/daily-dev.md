@@ -245,3 +245,12 @@ Configured dynamic imports for route-level code splitting.
 Added lazy loading for heavy component dependencies.
 Reduced initial bundle load time by approximately 15%.
 
+
+## 2026-01-31
+
+**chore: update project README**
+
+Rewrote README with project overview and feature highlights.
+Added technology stack badges and architecture diagram link.
+Included deployment instructions and environment variables.
+
