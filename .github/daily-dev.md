@@ -6191,3 +6191,10 @@ Implementation details refined. Performance benchmarks validated.
 
 Implementation details refined. Performance benchmarks validated.
 
+
+## 2026-02-18 - v1.94
+
+**docs: update API reference with new parameters**
+
+Implementation details refined. Performance benchmarks validated.
+
