@@ -8053,3 +8053,10 @@ Implementation details refined. Performance benchmarks validated.
 
 Implementation details refined. Performance benchmarks validated.
 
+
+## 2026-02-20 - v9.26
+
+**feat: add keyboard navigation support for tables**
+
+Implementation details refined. Performance benchmarks validated.
+
