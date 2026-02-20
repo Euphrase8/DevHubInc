@@ -8018,3 +8018,10 @@ Implementation details refined. Performance benchmarks validated.
 
 Implementation details refined. Performance benchmarks validated.
 
+
+## 2026-02-20 - v2.39
+
+**style: align spacing tokens with design system spec**
+
+Implementation details refined. Performance benchmarks validated.
+
