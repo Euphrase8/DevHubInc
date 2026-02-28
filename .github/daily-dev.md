@@ -7416,3 +7416,10 @@ Implementation details refined. Performance benchmarks validated.
 
 Implementation details refined. Performance benchmarks validated.
 
+
+## 2026-02-28 - v8.37
+
+**chore: upgrade TypeScript to 5.7 with strict mode**
+
+Implementation details refined. Performance benchmarks validated.
+
