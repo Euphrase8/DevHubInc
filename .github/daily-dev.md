@@ -7500,3 +7500,10 @@ Implementation details refined. Performance benchmarks validated.
 
 Implementation details refined. Performance benchmarks validated.
 
+
+## 2026-02-28 - v1.49
+
+**docs: update API reference with new parameters**
+
+Implementation details refined. Performance benchmarks validated.
+
