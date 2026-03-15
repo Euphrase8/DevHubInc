@@ -8200,3 +8200,10 @@ Implementation details refined. Performance benchmarks validated.
 
 Implementation details refined. Performance benchmarks validated.
 
+
+## 2026-03-15 - v6.94
+
+**fix: correct state update race condition in forms**
+
+Implementation details refined. Performance benchmarks validated.
+
