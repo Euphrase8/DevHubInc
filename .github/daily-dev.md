@@ -272,3 +272,12 @@ Created toast notification component with success/error/warning variants.
 Added auto-dismiss with configurable duration.
 Implemented queue management for multiple notifications.
 
+
+## 2026-03-16
+
+**style: update typography scale**
+
+Refined font size scale for better readability.
+Adjusted line-height values for headings and body text.
+Added responsive font size adjustments per breakpoint.
+
