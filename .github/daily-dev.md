@@ -281,3 +281,12 @@ Refined font size scale for better readability.
 Adjusted line-height values for headings and body text.
 Added responsive font size adjustments per breakpoint.
 
+
+## 2026-03-17
+
+**docs: add component storybook stories**
+
+Created Storybook stories for Button, Card, and Input components.
+Added interactive controls for prop variant testing.
+Documented edge cases and accessibility considerations.
+
