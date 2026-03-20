@@ -308,3 +308,12 @@ Built reusable pagination with page number and prev/next controls.
 Added ellipsis truncation for large page counts.
 Included page size selector with customizable options.
 
+
+## 2026-03-20
+
+**fix: resolve modal focus trap issue**
+
+Fixed focus trap implementation for modal accessibility.
+Added Escape key handler for closing modals.
+Improved backdrop click handling to prevent accidental closes.
+
