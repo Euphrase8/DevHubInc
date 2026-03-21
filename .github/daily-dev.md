@@ -317,3 +317,12 @@ Fixed focus trap implementation for modal accessibility.
 Added Escape key handler for closing modals.
 Improved backdrop click handling to prevent accidental closes.
 
+
+## 2026-03-21
+
+**style: add hover effects to cards**
+
+Added subtle transform lift effect on card hover.
+Implemented smooth shadow transition for depth perception.
+Included border highlight animation for selected states.
+
