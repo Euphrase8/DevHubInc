@@ -326,3 +326,12 @@ Added subtle transform lift effect on card hover.
 Implemented smooth shadow transition for depth perception.
 Included border highlight animation for selected states.
 
+
+## 2026-03-22
+
+**perf: optimize image delivery pipeline**
+
+Configured image compression with WebP format support.
+Added lazy loading with Intersection Observer API.
+Implemented responsive image srcset generation.
+
