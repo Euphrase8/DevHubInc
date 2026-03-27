@@ -12358,3 +12358,10 @@ Implementation details refined. Performance benchmarks validated.
 
 Implementation details refined. Performance benchmarks validated.
 
+
+## 2026-03-27 - v3.25
+
+**docs: update API reference with new parameters**
+
+Implementation details refined. Performance benchmarks validated.
+
