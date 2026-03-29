@@ -12204,3 +12204,10 @@ Implementation details refined. Performance benchmarks validated.
 
 Implementation details refined. Performance benchmarks validated.
 
+
+## 2026-03-29 - v6.40
+
+**style: align spacing tokens with design system spec**
+
+Implementation details refined. Performance benchmarks validated.
+
