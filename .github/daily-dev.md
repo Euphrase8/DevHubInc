@@ -5057,3 +5057,10 @@ Implementation details refined. Performance benchmarks validated.
 
 Implementation details refined. Performance benchmarks validated.
 
+
+## 2026-03-31 - v8.30
+
+**feat: add keyboard navigation support for tables**
+
+Implementation details refined. Performance benchmarks validated.
+
