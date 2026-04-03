@@ -20919,3 +20919,10 @@ Refactored implementation. All tests passing. Code coverage maintained.
 
 Refactored implementation. All tests passing. Code coverage maintained.
 
+
+## 2026-04-03 - patch 817
+
+**perf: implement memoized selectors**
+
+Refactored implementation. All tests passing. Code coverage maintained.
+
