@@ -4462,3 +4462,10 @@ Related adjustments across dependent modules.
 
 Implementation details refined. Performance benchmarks validated.
 
+
+## 2026-04-05 - v8.9
+
+**fix: correct state update race condition in forms**
+
+Implementation details refined. Performance benchmarks validated.
+
