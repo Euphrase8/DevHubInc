@@ -7059,3 +7059,10 @@ Implementation details refined. Performance benchmarks validated.
 
 Implementation details refined. Performance benchmarks validated.
 
+
+## 2026-04-23 - v3.6
+
+**docs: update API reference with new parameters**
+
+Implementation details refined. Performance benchmarks validated.
+
