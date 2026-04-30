@@ -23194,3 +23194,10 @@ Refactored implementation. All tests passing. Code coverage maintained.
 
 Refactored implementation. All tests passing. Code coverage maintained.
 
+
+## 2026-04-30 - patch 781
+
+**chore: clean up deprecated type exports**
+
+Refactored implementation. All tests passing. Code coverage maintained.
+
