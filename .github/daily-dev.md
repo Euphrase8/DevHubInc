@@ -5547,3 +5547,10 @@ Implementation details refined. Performance benchmarks validated.
 
 Implementation details refined. Performance benchmarks validated.
 
+
+## 2026-05-01 - v9.57
+
+**docs: update API reference with new parameters**
+
+Implementation details refined. Performance benchmarks validated.
+
