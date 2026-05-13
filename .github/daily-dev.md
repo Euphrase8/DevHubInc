@@ -20,3 +20,12 @@ Enabled strict TypeScript checks across the project.
 Added import ordering rules for consistent code style.
 Fixed ESLint configuration warnings.
 
+
+## 2026-05-13
+
+**fix: resolve navigation dropdown z-index**
+
+Fixed dropdown menu overlapping with hero section content.
+Adjusted stacking context for improved mobile menu behavior.
+Added backdrop blur effect for better visual hierarchy.
+
