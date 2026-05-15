@@ -29,3 +29,12 @@ Fixed dropdown menu overlapping with hero section content.
 Adjusted stacking context for improved mobile menu behavior.
 Added backdrop blur effect for better visual hierarchy.
 
+
+## 2026-05-15
+
+**style: standardize color palette tokens**
+
+Normalized accent color usage across all components.
+Updated hover and focus states for better accessibility.
+Refined dark mode color tokens for consistency.
+
