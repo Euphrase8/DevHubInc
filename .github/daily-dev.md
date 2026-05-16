@@ -38,3 +38,12 @@ Normalized accent color usage across all components.
 Updated hover and focus states for better accessibility.
 Refined dark mode color tokens for consistency.
 
+
+## 2026-05-16
+
+**docs: add component usage documentation**
+
+Documented Button component with all available variants.
+Added Card component prop definitions and examples.
+Created quick-start usage guide for new contributors.
+
