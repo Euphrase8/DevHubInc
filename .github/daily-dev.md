@@ -24755,3 +24755,10 @@ Refactored implementation. All tests passing. Code coverage maintained.
 
 Refactored implementation. All tests passing. Code coverage maintained.
 
+
+## 2026-05-16 - patch 931
+
+**docs: update changelog with recent changes**
+
+Refactored implementation. All tests passing. Code coverage maintained.
+
