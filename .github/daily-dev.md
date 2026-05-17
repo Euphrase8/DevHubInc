@@ -24853,3 +24853,10 @@ Refactored implementation. All tests passing. Code coverage maintained.
 
 Refactored implementation. All tests passing. Code coverage maintained.
 
+
+## 2026-05-17 - patch 841
+
+**refactor: simplify conditional rendering logic**
+
+Refactored implementation. All tests passing. Code coverage maintained.
+
