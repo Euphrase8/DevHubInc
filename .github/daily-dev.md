@@ -25140,3 +25140,10 @@ Refactored implementation. All tests passing. Code coverage maintained.
 
 Refactored implementation. All tests passing. Code coverage maintained.
 
+
+## 2026-05-20 - patch 837
+
+**docs: update changelog with recent changes**
+
+Refactored implementation. All tests passing. Code coverage maintained.
+
