@@ -9761,3 +9761,10 @@ Implementation details refined. Performance benchmarks validated.
 
 Implementation details refined. Performance benchmarks validated.
 
+
+## 2026-05-23 - v5.53
+
+**docs: update API reference with new parameters**
+
+Implementation details refined. Performance benchmarks validated.
+
