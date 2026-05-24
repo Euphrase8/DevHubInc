@@ -25539,3 +25539,10 @@ Refactored implementation. All tests passing. Code coverage maintained.
 
 Refactored implementation. All tests passing. Code coverage maintained.
 
+
+## 2026-05-24 - patch 127
+
+**feat: add loading state to async components**
+
+Refactored implementation. All tests passing. Code coverage maintained.
+
