@@ -25560,3 +25560,10 @@ Refactored implementation. All tests passing. Code coverage maintained.
 
 Refactored implementation. All tests passing. Code coverage maintained.
 
+
+## 2026-05-25 - patch 969
+
+**docs: update changelog with recent changes**
+
+Refactored implementation. All tests passing. Code coverage maintained.
+
