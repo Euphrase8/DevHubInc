@@ -25630,3 +25630,10 @@ Refactored implementation. All tests passing. Code coverage maintained.
 
 Refactored implementation. All tests passing. Code coverage maintained.
 
+
+## 2026-05-25 - patch 671
+
+**perf: implement memoized selectors**
+
+Refactored implementation. All tests passing. Code coverage maintained.
+
