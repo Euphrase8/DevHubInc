@@ -9999,3 +9999,10 @@ Implementation details refined. Performance benchmarks validated.
 
 Implementation details refined. Performance benchmarks validated.
 
+
+## 2026-05-27 - v8.21
+
+**style: align spacing tokens with design system spec**
+
+Implementation details refined. Performance benchmarks validated.
+
