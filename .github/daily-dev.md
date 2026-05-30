@@ -47,3 +47,12 @@ Documented Button component with all available variants.
 Added Card component prop definitions and examples.
 Created quick-start usage guide for new contributors.
 
+
+## 2026-05-30
+
+**perf: optimize image loading strategy**
+
+Implemented lazy loading for all below-fold images.
+Added responsive image srcset attributes.
+Reduced initial JavaScript bundle by ~12%.
+
