@@ -56,3 +56,12 @@ Implemented lazy loading for all below-fold images.
 Added responsive image srcset attributes.
 Reduced initial JavaScript bundle by ~12%.
 
+
+## 2026-06-02
+
+**chore: update project dependencies**
+
+Updated React to version 19.0.0 for latest features.
+Upgraded Vite to version 6.x for faster builds.
+Applied security patches across dependency tree.
+
