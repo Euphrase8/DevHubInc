@@ -9026,3 +9026,10 @@ Implementation details refined. Performance benchmarks validated.
 
 Implementation details refined. Performance benchmarks validated.
 
+
+## 2026-06-03 - v3.54
+
+**style: align spacing tokens with design system spec**
+
+Implementation details refined. Performance benchmarks validated.
+
