@@ -8949,3 +8949,10 @@ Implementation details refined. Performance benchmarks validated.
 
 Implementation details refined. Performance benchmarks validated.
 
+
+## 2026-06-03 - v9.5
+
+**refactor: simplify render logic in dashboard view**
+
+Implementation details refined. Performance benchmarks validated.
+
