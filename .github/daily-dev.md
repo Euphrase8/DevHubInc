@@ -9425,3 +9425,10 @@ Implementation details refined. Performance benchmarks validated.
 
 Implementation details refined. Performance benchmarks validated.
 
+
+## 2026-06-05 - v9.34
+
+**docs: update API reference with new parameters**
+
+Implementation details refined. Performance benchmarks validated.
+
