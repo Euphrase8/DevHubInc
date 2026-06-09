@@ -9593,3 +9593,10 @@ Implementation details refined. Performance benchmarks validated.
 
 Implementation details refined. Performance benchmarks validated.
 
+
+## 2026-06-09 - v7.21
+
+**test: cover edge cases in data transformation utils**
+
+Implementation details refined. Performance benchmarks validated.
+
